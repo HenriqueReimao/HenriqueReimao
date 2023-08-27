@@ -16,7 +16,7 @@ Acredito muito que,no seculo 21, programar é como ter o poder de criação.Gost
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-![DOCKER](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![DOCKER](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker&logoColor=30A3DC)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=30A3DC)
 ![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=30A3DC)
 ![Flutter](https://img.shields.io/badge/flutter-000?style=for-the-badge&logo=flutter&logoColor=30A3DC)
