@@ -13,6 +13,7 @@ Acredito muito que,no seculo 21, programar é como ter o poder de criação.Gost
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=30A3DC)
 ![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=30A3DC)
 ![Angula.js](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=30A3DC)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
