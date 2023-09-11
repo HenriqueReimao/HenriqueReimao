@@ -1,7 +1,8 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/HenriqueReimao/Imagens/9d51eefa0a94033884a338dd876eab85d662948e/Vetor/computador/hand-coding-concept-illustration.svg">
 
 # Henrique Reimão
 
-Acredito muito que, no seculo 21, programar é como ter o poder de criação.Gosto de me imaginar como o Nicolas Tesla ou Leonardo da Vinci enquanto desvendo a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e único como uma invenção. É o que me motiva a adquirir conhecimentos sobre linguagens e tecnologias, visando sempre o aprimoramento das minhas habilidades. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Com a possibilidade de juntar gênios de épocas e lugares diferentes, programar se torna atemporal.
+Acredito muito que, no seculo 21, programar é como ter o poder de criação. Gosto de me imaginar como o Nicolas Tesla ou Leonardo da Vinci enquanto desvendo a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e único como uma invenção. É o que me motiva a adquirir conhecimentos sobre linguagens e tecnologias, visando sempre o aprimoramento das minhas habilidades. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Com a possibilidade de juntar gênios de épocas e lugares diferentes, programar se torna atemporal.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/henrique_reimao_hr)
@@ -95,6 +96,11 @@ Acredito muito que, no seculo 21, programar é como ter o poder de criação.Gos
 </table>
 
 ---
+<details align="left">
+  <summary>COPYRIGHT<h1></h1></summary>
+  - hand-coding-concept-illustration
+  <a href="https://www.freepik.com/free-vector/hand-coding-concept-illustration_21864184.htm#query=developer&position=41&from_view=keyword&track=sph#position=41&query=developer">Image by storyset</a> on Freepik
 
 
 [def]: https://docs.github.com/
+
