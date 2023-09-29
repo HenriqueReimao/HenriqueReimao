@@ -2,7 +2,7 @@
 
 # Henrique Reimão
 
-Acredito muito que, no seculo 21, programar é como ter o poder de criação. Gosto de me imaginar como o Nicolas Tesla ou Leonardo da Vinci enquanto desvendo a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e único como uma invenção. É o que me motiva a adquirir conhecimentos sobre linguagens e tecnologias, visando sempre o aprimoramento das minhas habilidades. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Com a possibilidade de juntar gênios de épocas e lugares diferentes, programar se torna atemporal.
+Acredito muito que no seculo 21, programar é como ter o poder de criação. Gosto de me imaginar como o Nicolas Tesla ou Leonardo da Vinci enquanto desvendo a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e único como uma invenção. É o que me motiva a adquirir conhecimentos sobre linguagens e tecnologias, visando sempre o aprimoramento das minhas habilidades. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Com a possibilidade de juntar gênios de épocas e lugares diferentes, programar se torna atemporal.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/henrique_reimao_hr)
@@ -36,16 +36,14 @@ Acredito muito que, no seculo 21, programar é como ter o poder de criação. Go
 ![Empathetic](https://img.shields.io/badge/Empathetic-blue)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueReimao&theme=transparent&bg_color=013&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HenriqueReimao&layout=compact&bg_color=6CCB94&border_color=30A3DC&title_color=17282F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueReimao&theme=transparent&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HenriqueReimao&layout=compact&bg_color=091418&border_color=091418&title_color=75DBA0&text_color=fff)
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+
 ### Meus Principais  Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=henriquereimao&repo=etica_launcher&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/HenriqueReimao/etica_launcher)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=henriquereimao&repo=etica_launcher&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=fff)](https://github.com/HenriqueReimao/etica_launcher)
 
-### Meus Principais Artigos na DIO
+### Meus Principais Artigos
 <table>
   <thead>
     <tr align="left">
@@ -60,7 +58,7 @@ Acredito muito que, no seculo 21, programar é como ter o poder de criação. Go
       <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
       <td align="center">
         <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-75DBA0?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -69,7 +67,7 @@ Acredito muito que, no seculo 21, programar é como ter o poder de criação. Go
       <td>Crie Seu Próprio Web Component</td>
       <td align="center">
         <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-091418?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -78,7 +76,7 @@ Acredito muito que, no seculo 21, programar é como ter o poder de criação. Go
       <td>Destrave seu Primeiro Desafio de Código</td>
       <td align="center">
         <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-75DBA0?style=for-the-badge">
         </a>
       </td>    
     </tr>
@@ -87,7 +85,7 @@ Acredito muito que, no seculo 21, programar é como ter o poder de criação. Go
       <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
       <td align="center">
         <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-091418?style=for-the-badge">
         </a>
       </td>    
     </tr>
