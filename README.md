@@ -4,14 +4,13 @@
 
 Acredito muito que no seculo 21, programar é como ter o poder de criação. Gosto de me imaginar como o Nicolas Tesla ou Leonardo da Vinci enquanto desvendo a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e único como uma invenção. É o que me motiva a adquirir conhecimentos sobre linguagens e tecnologias, visando sempre o aprimoramento das minhas habilidades. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Com a possibilidade de juntar gênios de épocas e lugares diferentes, programar se torna atemporal.
 
-### Conecte-se comigo
+### Contact
 
 [![medium](https://img.shields.io/badge/meu%20_perfil_medium-091418?style=for-the-badge)](https://medium.com/@henrique.reimao.dev)
 [![E-mail](https://img.shields.io/badge/Email-75DBA0?style=for-the-badge&logo=microsoft-outlook&logoColor=091418)](mailto:henrique.reimao.dev@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-75DBA0?style=for-the-badge&logo=linkedin&logoColor=091418)](https://www.linkedin.com/)
 
-
-### Hard Skills
+### Development tools
 
 ![HTML5](https://img.shields.io/badge/HTML%205-091418?style=for-the-badge&logo=html5&logoColor=75DBA0)
 ![CSS3](https://img.shields.io/badge/CSS3-75DBA0?style=for-the-badge&logo=css3&logoColor=091418)
@@ -26,15 +25,17 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
 ![Flutter](https://img.shields.io/badge/flutter-091418?style=for-the-badge&logo=flutter&logoColor=75DBA0)
 ![linux](https://img.shields.io/badge/linux-75DBA0?style=for-the-badge&logo=linux&logoColor=091418)
 ![mysql](https://img.shields.io/badge/mysql-091418?style=for-the-badge&logo=mysql&logoColor=75DBA0)
+
 ### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueReimao&theme=transparent&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HenriqueReimao&layout=compact&bg_color=091418&border_color=091418&title_color=75DBA0&text_color=fff)
 
-
 ### Meus Principais  Projetos
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=henriquereimao&repo=etica_launcher&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=fff)](https://github.com/HenriqueReimao/etica_launcher)
 
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=henriquereimao&repo=etica_launcher&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=fff)](https://github.com/HenriqueReimao/etica_launcher)
 ### Meus Principais Artigos
+
 <table>
   <thead>
     <tr align="left">
@@ -69,7 +70,7 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
         <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-75DBA0?style=for-the-badge">
         </a>
-      </td>    
+      </td>
     </tr>
     <tr>
       <td>21/04/2022</td>
@@ -78,7 +79,7 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
         <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
            <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-091418?style=for-the-badge">
         </a>
-      </td>    
+      </td>
     </tr>
   </tbody>
   <tfoot></tfoot>
@@ -89,7 +90,4 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
   <summary>COPYRIGHT<h1></h1></summary>
   - hand-coding-concept-illustration
   <a href="https://www.freepik.com/free-vector/hand-coding-concept-illustration_21864184.htm#query=developer&position=41&from_view=keyword&track=sph#position=41&query=developer">Image by storyset</a> on Freepik
-
-
-[def]: https://docs.github.com/
 
