@@ -10,7 +10,7 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
 [![E-mail](https://img.shields.io/badge/Email-75DBA0?style=for-the-badge&logo=microsoft-outlook&logoColor=091418)](mailto:henrique.reimao.dev@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-75DBA0?style=for-the-badge&logo=linkedin&logoColor=091418)](https://www.linkedin.com/)
 
-### Development tools
+### Development Tools
 
 ![HTML5](https://img.shields.io/badge/HTML%205-091418?style=for-the-badge&logo=html5&logoColor=75DBA0)
 ![CSS3](https://img.shields.io/badge/CSS3-75DBA0?style=for-the-badge&logo=css3&logoColor=091418)
@@ -25,6 +25,9 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
 ![Flutter](https://img.shields.io/badge/flutter-091418?style=for-the-badge&logo=flutter&logoColor=75DBA0)
 ![linux](https://img.shields.io/badge/linux-75DBA0?style=for-the-badge&logo=linux&logoColor=091418)
 ![mysql](https://img.shields.io/badge/mysql-091418?style=for-the-badge&logo=mysql&logoColor=75DBA0)
+###  Designer Tools
+![figima](https://img.shields.io/badge/figima-75DBA0?style=for-the-badge&logo=figma&logoColor=091418)
+![illustrator](https://img.shields.io/badge/illustrator-75DBA0?style=for-the-badge&logo=adobe-illustrator&logoColor=091418)
 
 ### GitHub Stats
 
@@ -34,6 +37,7 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
 ### Meus Principais  Projetos
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=henriquereimao&repo=etica_launcher&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=fff)](https://github.com/HenriqueReimao/etica_launcher)
+
 ### Meus Principais Artigos
 
 <table>
@@ -90,4 +94,3 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
   <summary>COPYRIGHT<h1></h1></summary>
   - hand-coding-concept-illustration
   <a href="https://www.freepik.com/free-vector/hand-coding-concept-illustration_21864184.htm#query=developer&position=41&from_view=keyword&track=sph#position=41&query=developer">Image by storyset</a> on Freepik
-
