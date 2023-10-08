@@ -6,9 +6,9 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/henrique_reimao_hr)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:henrique.reimao.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/HenriqueReimao)
+[![medium](https://img.shields.io/badge/meu%20_perfil_medium-091418?style=for-the-badge)](https://medium.com/@henrique.reimao.dev)
+[![E-mail](https://img.shields.io/badge/Email-75DBA0?style=for-the-badge&logo=microsoft-outlook&logoColor=091418)](mailto:henrique.reimao.dev@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-75DBA0?style=for-the-badge&logo=linkedin&logoColor=091418)](https://www.linkedin.com/)
 
 
 ### Hard Skills
@@ -26,16 +26,6 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
 ![Flutter](https://img.shields.io/badge/flutter-091418?style=for-the-badge&logo=flutter&logoColor=75DBA0)
 ![linux](https://img.shields.io/badge/linux-75DBA0?style=for-the-badge&logo=linux&logoColor=091418)
 ![mysql](https://img.shields.io/badge/mysql-091418?style=for-the-badge&logo=mysql&logoColor=75DBA0)
-
-
-
-### Soft Skills
-![Scrum](https://img.shields.io/badge/Scrum-grem)
-![Communicative](https://img.shields.io/badge/Communicative-red)
-![Proactive](https://img.shields.io/badge/Proactive-blue)
-![Organized](https://img.shields.io/badge/Organized-red)
-![Empathetic](https://img.shields.io/badge/Empathetic-blue)
-
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueReimao&theme=transparent&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HenriqueReimao&layout=compact&bg_color=091418&border_color=091418&title_color=75DBA0&text_color=fff)
