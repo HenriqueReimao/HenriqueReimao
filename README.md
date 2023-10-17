@@ -36,7 +36,7 @@ Acredito muito que no seculo 21, programar é como ter o poder de criação. Gos
 
 ### Meus Principais  Projetos
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=henriquereimao&repo=etica_launcher&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=fff)](https://github.com/HenriqueReimao/etica_launcher)
+[![Etica-Launcher](https://github-readme-stats.vercel.app/api/pin/?username=henriquereimao&repo=etica_launcher&bg_color=091418&border_color=091418&show_icons=true&icon_color=091418&title_color=75DBA0&text_color=fff)](https://github.com/HenriqueReimao/Etica-Launcher)
 
 ### Meus Principais Artigos
 
