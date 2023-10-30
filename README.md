@@ -15,18 +15,16 @@ Curabitur et hendrerit erat, ac luctus diam. Mauris placerat varius diam in temp
 ### Development Tools
 
 ![HTML5](https://img.shields.io/badge/HTML%205-091418?style=for-the-badge&logo=html5&logoColor=75DBA0)
-![CSS3](https://img.shields.io/badge/CSS3-75DBA0?style=for-the-badge&logo=css3&logoColor=091418)
-![JavaScript](https://img.shields.io/badge/javascript-091418?style=for-the-badge&logo=javascript&logoColor=75DBA0)
+![CSS3](https://img.shields.io/badge/CSS3-091418?style=for-the-badge&logo=css3&logoColor=75DBA0)
+![JavaScript](https://img.shields.io/badge/javascript-75DBA0?style=for-the-badge&logo=javascript&logoColor=091418)
 ![TypeScript](https://img.shields.io/badge/typescript-75DBA0?style=for-the-badge&logo=typescript&logoColor=091418)
 ![Angula](https://img.shields.io/badge/angular-091418?style=for-the-badge&logo=angular&logoColor=75DBA0)
 ![Git](https://img.shields.io/badge/Git-75DBA0?style=for-the-badge&logo=git&logoColor=091418)
 ![GitHub](https://img.shields.io/badge/git_hub-091418?style=for-the-badge&logo=github&logoColor=75DBA0)
 ![DOCKER](https://img.shields.io/badge/docker-75DBA0?style=for-the-badge&logo=docker&logoColor=091418)
-![Mongodb](https://img.shields.io/badge/Mongodb-091418?style=for-the-badge&logo=Mongodb&logoColor=75DBA0)
 ![Dart](https://img.shields.io/badge/dart-75DBA0?style=for-the-badge&logo=dart&logoColor=091418)
 ![Flutter](https://img.shields.io/badge/flutter-091418?style=for-the-badge&logo=flutter&logoColor=75DBA0)
 ![linux](https://img.shields.io/badge/linux-75DBA0?style=for-the-badge&logo=linux&logoColor=091418)
-![mysql](https://img.shields.io/badge/mysql-091418?style=for-the-badge&logo=mysql&logoColor=75DBA0)
 ###  Designer Tools
 ![figima](https://img.shields.io/badge/figima-75DBA0?style=for-the-badge&logo=figma&logoColor=091418)
 ![illustrator](https://img.shields.io/badge/illustrator-75DBA0?style=for-the-badge&logo=adobe-illustrator&logoColor=091418)
