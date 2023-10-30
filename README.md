@@ -2,7 +2,9 @@
 
 # Henrique Reimão
 
-Acredito muito que no seculo 21, programar é como ter o poder de criação. Gosto de me imaginar como o Nicolas Tesla ou Leonardo da Vinci enquanto desvendo a lógica por trás de cada linha de código e a maneira como diferentes partes de um sistema se unem para criar algo funcional e único como uma invenção. É o que me motiva a adquirir conhecimentos sobre linguagens e tecnologias, visando sempre o aprimoramento das minhas habilidades. A metodologia Scrum se alinha perfeitamente com a minha filosofia de colaboração. Com a possibilidade de juntar gênios de épocas e lugares diferentes, programar se torna atemporal.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam volutpat purus leo, quis volutpat justo auctor pharetra. Nam consequat arcu dolor. Pellentesque et cursus eros. Curabitur vestibulum quam ut ligula aliquam, vel sollicitudin velit molestie. Integer sit amet mattis felis. Fusce malesuada metus in iaculis fermentum. Ut dapibus tellus id lectus tristique, at tincidunt nunc ornare. Vestibulum rhoncus nec sapien et posuere. Proin suscipit nibh eros, sed vestibulum nulla lacinia eget. Suspendisse sed egestas massa. Donec vulputate est at ex dictum dictum. Suspendisse potenti. Etiam tortor tellus, aliquam in lectus ullamcorper, elementum vulputate quam. Etiam ut nisi vitae nisi elementum tincidunt et a nisl.
+
+Curabitur et hendrerit erat, ac luctus diam. Mauris placerat varius diam in tempor. Sed rutrum lorem nunc, at maximus risus dignissim sed. Aliquam imperdiet fermentum ligula, nec consequat nunc dapibus non. Mauris id tellus in justo ornare dictum id quis nisi. Sed lorem nunc, finibus consectetur nulla ut, placerat rhoncus eros. Phasellus eu arcu sit amet risus mattis iaculis. Suspendisse interdum finibus mi et elementum. Nunc iaculis magna leo, ut hendrerit sapien semper a. Vestibulum iaculis ligula fermentum risus congue, vitae hendrerit erat tincidunt. Integer varius quis ante fringilla maximus. Sed sit amet quam augue. Integer et nisl vehicula, feugiat urna et, commodo risus.
 
 ### Contact
 
